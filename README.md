@@ -1,16 +1,18 @@
-# flutterblocpagination
+# FLUTTER PAGINATION USING BLOC PATTERN
 
-A new Flutter project.
+Implementation of Pagination using API for bloc patterns
 
-## Getting Started
+## SCREENSHOT
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/abircse/FlutterBlocPagination/assets/22006238/59db9d3a-8069-4004-9750-2b35a7473d8f" width="450" height="790" alt="Iphone 15 Pro Max">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## DEPENDENCIES
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Keep All these dependencies on pubspec.yaml
+
+| Plugin | Version                        |
+| ------ |--------------------------------|
+| flutter_bloc | ^8.1.5 |
+| equatable | ^2.0.5 |
+| http | ^1.2.0 |
